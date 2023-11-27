@@ -17,13 +17,28 @@ This project illustrates the visual representations of water by national belts, 
 
 
 
-  # V
+# National Data
 
  ![image](n1.jpg)
 
-## KOFI
+## Time in Queues
 ![image](n2.jpg)
 
 
+# Pollution Data
+  ![image](n2.jpg) 
+
+
+ # Crime Data
+  ![image](n4.jpg)
+
+
+
   # Visualisation Findings 
+
+
+  # Contact
+  Anatu B Lambon
+  anabikelam@gmail.com
+  +233551065993
   
